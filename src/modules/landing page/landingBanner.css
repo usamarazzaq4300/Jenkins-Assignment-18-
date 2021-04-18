@@ -1,0 +1,17 @@
+#heading
+{
+    font-size: 60px;
+    font-family: Georgia,Times,serif;
+    font-weight: 800;
+    color: rgb(74,85,104);
+    margin-top: 30px;
+}
+#tagline
+{
+    color: rgb(74,85,104);  
+}
+#details
+{
+    color: rgb(74,85,104);
+    margin-top: 20px;
+}

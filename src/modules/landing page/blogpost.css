@@ -1,0 +1,17 @@
+#blogpostlinks
+{
+    color: #d53730;
+}
+#mainLink
+{
+    color: rgb(22,139,185);
+}
+#content
+{
+    padding-top: 20px;
+}
+li{
+    display: inline;
+    margin-right: 10px;
+    font-size: 12px;
+}
