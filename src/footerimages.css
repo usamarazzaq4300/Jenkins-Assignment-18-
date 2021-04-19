@@ -1,0 +1,73 @@
+#main
+{
+    background-color: rgb(248,249,251);
+}
+#greet
+{
+    text-align: center;
+    color: rgb(74,85,104);
+    padding-top: 20px;
+}
+#img
+{
+    text-align: center;
+    padding-top: 20px;
+}
+#img2
+{
+    padding-top: 20px; 
+}
+#align
+{
+    padding-top: 50px;
+}
+#github
+{
+    text-align: right;
+}
+.footerlinks
+{
+    display: inline;
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(16,119,173);
+    margin-left: 6px;
+    text-align: center;
+}
+#footer
+{
+    background-color:rgb(16,119,173) ;
+}
+#aligncol
+{
+    padding-top: 30px;
+}
+.footlinks
+{ 
+     color: white;
+}
+.footlinks:hover
+{
+    color: white;
+}
+.first
+{
+    display: block;
+    font-size: 14px;
+}
+#greetlinks
+{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+hr
+{
+    background: white;
+    height: 1px;    
+    width: 100%;
+}
+#footerAlignment
+{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}

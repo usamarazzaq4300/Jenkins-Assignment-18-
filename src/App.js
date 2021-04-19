@@ -7,6 +7,7 @@ import Features from "./modules/landing page/feature"
 import Video from "./modules/landing page/video"
 import RecentBlogPost from "./modules/landing page/RecentBlogPost"
 import BlogPost from "./modules/landing page/blog post"
+import FooterImages from "./footerimages"
 function App() {
   return (
     <div className="App">
@@ -103,8 +104,8 @@ function App() {
             </div>
             <div className="col-1"></div>
           </div>
-        
       </div>
+      <FooterImages/>
     </div>
   );
 }
